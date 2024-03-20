@@ -1,0 +1,309 @@
+Game Initialization Complete
+Advancing to level 1
++ + + + + + + + + + + +
+Creating World
+x c g k g 
+c m x c k 
+m k g k H 
+x g x c m 
+c k w g x 
+Level: 1
+Mario's Location: 2, 4
+Move Number: 0
+Power Level: 3
+Mario collected a mushroom!
+x c g k g 
+c m x c k 
+m k g k x 
+x g x c H 
+c k w g x 
+Number of Lives: 3
+Coins collected by Mario: 0
+Next Move Direction: DOWN
+- - - - - - - - -
+Level: 1
+Mario's Location: 3, 4
+Move Number: 1
+Power Level: 3
+Mario collected a coin!
+x c g k g 
+c m x c k 
+m k g k x 
+x g x H x 
+c k w g x 
+Number of Lives: 3
+Coins collected by Mario: 1
+Next Move Direction: LEFT
+- - - - - - - - -
+Level: 1
+Mario's Location: 3, 3
+Move Number: 2
+Power Level: 3
+The position is empty.
+x c g k g 
+c m x c k 
+m k g k x 
+x g x x H 
+c k w g x 
+Number of Lives: 3
+Coins collected by Mario: 1
+Next Move Direction: RIGHT
+- - - - - - - - -
+Level: 1
+Mario's Location: 3, 4
+Move Number: 3
+Power Level: 3
+The position is empty.
+x c g k g 
+c m x c k 
+m k g k x 
+H g x x x 
+c k w g x 
+Number of Lives: 3
+Coins collected by Mario: 1
+Next Move Direction: RIGHT
+- - - - - - - - -
+Level: 1
+Mario's Location: 3, 0
+Move Number: 4
+Power Level: 3
+Mario defeated a Goomba!
+x c g k g 
+c m x c k 
+m k g k x 
+x H x x x 
+c k w g x 
+Number of Lives: 3
+Coins collected by Mario: 1
+Next Move Direction: RIGHT
+- - - - - - - - -
+Level: 1
+Mario's Location: 3, 1
+Move Number: 5
+Power Level: 3
+Mario defeated a Koopa!
+x c g k g 
+c m x c k 
+m k g k x 
+x x x x x 
+c H w g x 
+Number of Lives: 3
+Coins collected by Mario: 1
+Next Move Direction: DOWN
+- - - - - - - - -
+Level: 1
+Mario's Location: 4, 1
+Move Number: 6
+Power Level: 3
+Mario found a Warp Pipe!
+Advancing to level 2
++ + + + + + + + + + + +
+k c g x k 
+x g m k w 
+c x c m c 
+x k H m g 
+g x H k g 
+Number of Lives: 3
+Coins collected by Mario: 1
+Next Move Direction: RIGHT
+- - - - - - - - -
+Level: 2
+Mario's Location: 3, 2
+Move Number: 7
+Power Level: 3
+Encountered an unknown entity.
+Mario stays still.
+k c g x k 
+x g m k w 
+c x c m c 
+x k H m g 
+g x H k g 
+Number of Lives: 3
+Coins collected by Mario: 1
+Next Move Direction: DOWN
+- - - - - - - - -
+Level: 2
+Mario's Location: 3, 2
+Move Number: 8
+Power Level: 3
+Encountered an unknown entity.
+Mario stays still.
+k c g x k 
+x g m k w 
+c x c m c 
+x k H m g 
+g x H k g 
+Number of Lives: 3
+Coins collected by Mario: 1
+Next Move Direction: DOWN
+- - - - - - - - -
+Level: 2
+Mario's Location: 3, 2
+Move Number: 9
+Power Level: 3
+Mario collected a coin!
+k c g x k 
+x g m k w 
+c x H m c 
+x k x m g 
+g x H k g 
+Number of Lives: 3
+Coins collected by Mario: 2
+Next Move Direction: UP
+- - - - - - - - -
+Level: 2
+Mario's Location: 2, 2
+Move Number: 10
+Power Level: 3
+The position is empty.
+k c g x k 
+x g m k w 
+c H x m c 
+x k x m g 
+g x H k g 
+Number of Lives: 3
+Coins collected by Mario: 2
+Next Move Direction: LEFT
+- - - - - - - - -
+Level: 2
+Mario's Location: 2, 1
+Move Number: 11
+Power Level: 3
+Mario collected a coin!
+k c g x k 
+x g m k w 
+H x x m c 
+x k x m g 
+g x H k g 
+Number of Lives: 3
+Coins collected by Mario: 3
+Next Move Direction: LEFT
+- - - - - - - - -
+Level: 2
+Mario's Location: 2, 0
+Move Number: 12
+Power Level: 3
+The position is empty.
+k c g x k 
+H g m k w 
+x x x m c 
+x k x m g 
+g x H k g 
+Number of Lives: 3
+Coins collected by Mario: 3
+Next Move Direction: UP
+- - - - - - - - -
+Level: 2
+Mario's Location: 1, 0
+Move Number: 13
+Power Level: 3
+Mario found a Warp Pipe!
+Advancing to level 3
++ + + + + + + + + + + +
+k m g x k 
+x k x c H 
+b m c x x 
+m c c c x 
+g k g k g 
+Number of Lives: 3
+Coins collected by Mario: 3
+Next Move Direction: LEFT
+- - - - - - - - -
+Level: 3
+Mario's Location: 1, 4
+Move Number: 14
+Power Level: 3
+Mario defeated a Koopa!
+k m g x H 
+x k x c x 
+b m c x x 
+m c c c x 
+g k g k g 
+Number of Lives: 3
+Coins collected by Mario: 3
+Next Move Direction: UP
+- - - - - - - - -
+Level: 3
+Mario's Location: 0, 4
+Move Number: 15
+Power Level: 3
+Mario lost to a Goomba.
+Mario's lives decreased to: 2
+Mario stays still.
+k m g x H 
+x k x c x 
+b m c x x 
+m c c c x 
+g k g k g 
+Number of Lives: 2
+Coins collected by Mario: 3
+Next Move Direction: UP
+- - - - - - - - -
+Level: 3
+Mario's Location: 0, 4
+Move Number: 16
+Power Level: 2
+Mario defeated a Goomba!
+k m g x x 
+x k x c x 
+b m c x x 
+m c c c x 
+g k g k H 
+Number of Lives: 2
+Coins collected by Mario: 3
+Next Move Direction: UP
+- - - - - - - - -
+Level: 3
+Mario's Location: 4, 4
+Move Number: 17
+Power Level: 2
+The position is empty.
+k m g x H 
+x k x c x 
+b m c x x 
+m c c c x 
+g k g k x 
+Number of Lives: 2
+Coins collected by Mario: 3
+Next Move Direction: DOWN
+- - - - - - - - -
+Level: 3
+Mario's Location: 0, 4
+Move Number: 18
+Power Level: 2
+Mario defeated a Koopa!
+H m g x x 
+x k x c x 
+b m c x x 
+m c c c x 
+g k g k x 
+Number of Lives: 2
+Coins collected by Mario: 3
+Next Move Direction: RIGHT
+- - - - - - - - -
+Level: 3
+Mario's Location: 0, 0
+Move Number: 19
+Power Level: 2
+The position is empty.
+x m g x x 
+H k x c x 
+b m c x x 
+m c c c x 
+g k g k x 
+Number of Lives: 2
+Coins collected by Mario: 3
+Next Move Direction: DOWN
+- - - - - - - - -
+Level: 3
+Mario's Location: 1, 0
+Move Number: 20
+Power Level: 2
+Mario encountered the Boss!
+Mario defeated the Boss!
+k m c k g 
+x g k c c 
+H x k c k 
+x g m H x 
+c g m g x 
+The princess has been saved!
